@@ -1,0 +1,67 @@
+Public Works 
+County-Owned Mobile Devices User Agreement 
+As a DPW employee, I have been approved to use a County-owned mobile device to conduct county business. I agree to adhere to the 
+Personnel Rules and the Information Technology: Email, Telephone, Internet and Computer Systems County policies and standard 
+practices, under the following terms and conditions: 
+1.
+I understand protection software requires a Personal Identification Number (PIN) code and an auto-lock setting that have been
+installed by Business and Technology Solutions and I will not modify, tamper with, or remove the security safeguards.
+2.
+I will immediately report to the department head/designee a lost, stolen, tampered, damaged or unauthorized access of the mobile
+device. If the lost device is found, I will notify the department head/designee within 24-hours or next business day.
+3.
+I will file a report with law enforcement if the mobile device is stolen and list the County of San Bernardino as a victim. I will follow-
+up with completing a DPW Incident Report Form.
+5.
+I understand all information contained on a county-owned mobile device, including my personal information, may be subject to
+public disclosure and/or disclosure during litigation.
+6.
+I will not knowingly store or back-up any protected San Bernardino County data (i.e., Social Security Numbers (SSN),
+credit card numbers, health information etc.)  to any third-party applications or internet storage.
+7.
+I acknowledge the county-owned mobile device will be set for remote wipe capability, a feature that will permanently erase stored
+data at the department’s discretion or if the device is lost, stolen, damaged or tampered with and the county is not liable for any
+personal information stored on the device.
+8.
+I understand I may be responsible for the cost of replacement or repair of any county-owned mobile device, equipment, or
+accessories issued to me due to misuse and/or negligence.
+9.
+I will surrender the county-owned mobile device and accessories to the department head/designee at the department’s request,
+upon separation from the department, or if the need for a mobile device no longer exists. Business and Technology Solutions will
+delete my access to any and all applicable county servers, county email and data.
+10.
+I will adhere to county, state and federal requirements when accessing and transmitting confidential information
+(Personally, Identifiable Information (PII), Protected Health Information (PHI), etc.) from the county-owned mobile device via the
+County Email Servers.
+11.
+I understand all hardware, software programs to include “apps”, created or purchased, and all data and electronic communication
+on the County’s internal computer network and computer systems is County proprietary information and is not to be sold,
+duplicated, or distributed without the express permission of the Director of Public Works. I will not load any unauthorized software
+on county mobile devices. 
+12.
+I will comply with all County policies when using a county-issued mobile device. I will not use the county-owned mobile device for
+any inappropriate activity and agree to use it only for county business.
+13.
+I understand that this agreement is supplemental and does not modify or superseded any County Policy already in place regarding
+the use of electronic mail, computer equipment or data
+   _________________________________ 
+_______________________________ 
+    _________________ 
+   Supervisor Name (Print) 
+Supervisor Signature 
+    Date 
+   _________________________________ 
+_______________________________ 
+    _________________ 
+   Dept. Head/Designee (Print) 
+Dept. Head/Designee Signature 
+Date 
+______________________________________________________________________________________________________________________________________________________________________________________________
+I have been assigned the following county mobile device: ☐ Smartphone ☐ Tablet ☐ Laptop ☐ Other: ___________________ 
+Model:  ________________ Asset Tag Number: _______________ Phone Number: ________________ MEID: ______________ 
+____________________________________              ___________________________ 
+           _______________ 
+Employee Name (Print) and ID#       
+              Employee Signature       
+  Date 
+Distribution: Employee File Finance/Administrative, IT, or another unit 

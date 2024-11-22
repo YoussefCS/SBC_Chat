@@ -1,0 +1,24 @@
+ 
+DEPARTMENT OF PUBLIC WORKS 
+Quick Start Guide:  Microsoft Teams 
+ 
+ 
+1. Install Desktop Software: 
+1. Go to Software Center, Click on Search 
+2. Type ‘Software Center’: 
+ 
+3. Click on Software Center Icon: 
+ 
+4. Select Teams_windows_x64 Installer Packet 
+ 
+5. Allow the executable file to make changes:  Click on YES 
+6. The software will take some time to install.  It is best to not have Skype or Outlook running during 
+installation, and be logged in with your Windows Credentials on your County device. 
+7. When the installer packet completes, manually Restart your computer.  The installer may just complete in 
+the background and not provide this instruction. 
+8. After restart, the Teams Icon should be showing on your desktop. Click on the Icon: 
+  You can also Type in ‘Teams’ from the Circle to locate the App as in Step 2 
+2. Log In: 
+9. At the Authentication Screen, Type in your windows credentials: 
+Once logged in, explore the Help Topics: 
+ 

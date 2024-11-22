@@ -1,0 +1,44 @@
+
+
+
+
+
+
+How To: Mapping Share Drives
+
+
+Document Purpose
+Showing multiple methods of mapping Share Drives in Windows 10
+Document Control
+Document Contacts
+R-Responsible  A-Accountable  C-Consulted   I- Informed
+Supporting Documents
+
+Method 1
+
+Open Windows Explorer (Windows Key + “E”)
+
+Select “This PC” on the left hand side
+Hit the “Map Network Drive” drop down on the top panel then select “Map Network Drive”
+Select the Drive letter desired, fill in the pathname of the share drive, IE \\dpw-fatss01\FCDesign then hit “Finish”
+
+
+
+
+
+
+
+
+
+Method 2
+
+Open Windows Explorer (Windows Key + “E”)
+In File Path Bar, Type in \\dpw-fatss01\
+
+
+Find the desired folder, right-click and select “Map network drive…”
+
+
+
+
+Select the desired letter and hit “Finish”

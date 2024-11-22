@@ -1,0 +1,34 @@
+
+
+
+
+
+
+How To: Moving MF Authenticator to New Phone 
+
+
+Document Purpose
+Registering Microsoft multi-factor authenticator for telecommuting to a new phone/device. 
+Note: This if for individuals who have a new phone and has kept their phone number of previous device registered. If you got a new phone with a new number and no longer have access to the old/original device registered, please put in a help desk ticket to have your MFA account reset. After MFA is reset, please follow instruction on the document Enroll in Office 365 MFA-New. 
+Document Control
+Document Contacts
+R-Responsible  A-Accountable  C-Consulted   I- Informed
+Supporting Documents
+
+Registering New Device MFA
+
+Open http://aka.ms/mfasetup
+Log in using your work email and password
+When you receive the “Approve sign in request” box, you will select “Sign in another way”
+
+Select “Text <number>”
+You will receive a text message with code on Phone, enter that code in and select “Verify”.
+Note: If you got a new phone with a new number and no longer have access to the old/original device registered, please put in a help desk ticket to have your MFA account reset. After MFA is reset, please follow instruction on the document Enroll in Office 365 MFA-New. 
+In Additional security verification, you will select “Delete” next to your old device like shown below. 
+Follow the on-screen instruction to finish removing old device, you may have to verify by Text to complete.
+Ensure the device is no longer listed. You will now proceed resume instructions on Step 6 in the Enroll in Office 365 MFA-New document. 
+
+
+
+
+

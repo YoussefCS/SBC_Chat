@@ -1,0 +1,12 @@
+To allow local computer’s microphone to be used by 
+Remote Computer
+In your Remote Desktop Connection before you connect to remote computer, you will select the “Local Resources” tab.
+
+
+Under Remote Audio you will press the “Settings…” button. Ensure the plaback device is set to “play on this computer” and change the audio recording to “Record from this computer” and press “OK”.
+
+
+
+Then press the “More…” button under Local devices and resources. Check on all the listed devices like shown in picture and hit “OK”. 
+
+You may go back to the “General” tab and hit “Save” to save these settings so that you don’t have to configure again.

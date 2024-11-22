@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+DPW Business and Technology Solutions
+
+Enrolling in Office 365
+Multi-Factor Authentication (MFA)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructions:
+
+Go here to setup your MFA Access
+https://aka.ms/mfasetup
+Sign in with your email address and network password
+
+After you login you will see this screen.  Click Next
+
+
+
+
+
+
+
+
+In the Authentication phone box enter your phone number and make sure “Send me a code by text message” is selected.  Then click next
+
+Enter the code that was sent via text message to your mobile device and click verify
+
+
+
+
+
+
+In order to connect to Remote Desktop Gateway you also need to enable the authenticator app.  Click the button “Set Up Authenticator App”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow the on-screen instructions to configure the mobile app (IE, your personal or work cellphone!)
+
+
+
+PLEASE NOTE: After scanning your unique bar code, the verification process will send a notification to your mobile phone asking you for authorization and you will choose “allow”*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When complete, verify the default verification option is set to “Notify me though app”. If it is not, select “Notify me though app” and click save.
+.
+
+
+Your MFA enrollment is complete. 
+
+PLEASE NOTE: EVERY TIME you connect to your work computer via Remote Desktop Connection. Your mobile device will prompt an authorization message, which you must “allow”. Have mobile device in-hand when trying to connect.

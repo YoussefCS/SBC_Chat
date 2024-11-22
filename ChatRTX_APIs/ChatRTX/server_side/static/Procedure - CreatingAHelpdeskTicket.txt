@@ -1,0 +1,28 @@
+Helpdesk Ticket Guidelines
+
+You can create a ticket from the Countyline Website or emailing ISD Helpdesk
+
+Guideline: A detailed and descriptive ticket will significantly help the resolution time. A poorly or incorrectly written ticket could result in not only longer resolution time but being close without resolution. 
+
+INFORMATION TO INCLUDE ON A HELP TICKET:
+
+Required:
+User’s name and Employee ID
+FAS Code of user
+Bluetag number(s)
+Contact Information of user and requester
+Issue/request with details (Name of application/website, error message, etc)
+*Please avoid broad terms like “not working” or “computer issue/help” and be as descriptive as possible.*
+
+	Optional:
+Screenshots
+Scope and impact (How many users are affected? How much is this impacting workflow?)
+When did issue start?
+What has the user tried? Have they restarted their computer?
+Is the issue happening for same user on another computer?
+Is the issue happening to other users on same computer?
+Any significant changes to your computer/account recently?
+
+
+ 
+ 

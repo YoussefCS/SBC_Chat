@@ -1,0 +1,58 @@
+
+
+
+
+
+
+How to – Windows 10 New Profile Configuration 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document Purpose
+Modify the default Windows 10 profile to prevent common mistakes that may occur while using Windows 10 and some of their apps. Administrative rights are NOT needed. Anyone can apply these changes. Any user that is logging on for the first time should apply this.
+Remove Unwanted Shortcuts
+Remove the following shortcuts from your taskbar and desktop: Microsoft Store, Microsoft Edge.
+Right-click on icons in your taskbar and select “Unpin”.  Right-click icons on your desktop and select “Delete”.
+
+Pin Internet Explorer and Outlook
+You can press the Windows key (on keyboard between Ctrl – Alt), type “Internet Explorer” in the search then right-click the icon that comes up, and select “Pin to Taskbar”. Repeat for Outlook.
+
+Set Default Printer
+Press Windows Key and “R” together – This should bring up the “Run Command” window. Type in “control printers” without quotations and hit enter. Right-click the desired default printer of the division and select “Set as default printer”. 
+
+
+
+
+
+
+
+
+
+
+Set Default Associations
+Press Windows Key, type in “Default apps” and select default apps. Change Email field to Outlook by pressing on the current app that is under Email and then selecting Outlook. Do the same for Web browser field except you will select Internet Explorer.
+
+From the same Default apps settings window, you will scroll down to the bottom and click “Choose default apps by file type”. In this window, you will find the file type “.pdf” by scrolling down and change the file association to Adobe Acrobat or Adobe Reader by clicking on Microsoft Edge (the current default) and selecting whichever version of Adobe you have installed on the computer. 
+
+
+
+Document Control
+Document Contacts
+R-Responsible  A-Accountable  C-Consulted   I- Informed
+Supporting Documents
+	

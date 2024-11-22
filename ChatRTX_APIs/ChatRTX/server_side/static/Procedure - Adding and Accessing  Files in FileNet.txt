@@ -1,0 +1,28 @@
+Adding and 
+Accessing  Files in 
+FileNet
+D AW N  S P E L L M A N  J U N E  6 ,  2 0 1 7
+Accessing existing files in the 
+Filenet System
+Email isdhelpdesk@isd.sbcounty.gov for an account if needed
+To log into the site, go to 
+◦http://ecm-pw/swlf/Logon.asp?Ret=Default.asp
+Accessing existing files
+–
+Your login screen will look like the below image
+Accessing existing files
+–
+To select a site
+•
+Use the pulldown menu to the right of the word “Site:”
+Accessing existing files
+–
+To select a document type
+•
+Use the pulldown menu to the right of the word “Document Type:”
+Accessing existing files
+–
+Searching with a “Wildcard” or “Wild Character” to find a file -
+•
+when you are unsure of the complete filename or description, type the “%” sign in front and back of the word 
+that you associate with the file in your search

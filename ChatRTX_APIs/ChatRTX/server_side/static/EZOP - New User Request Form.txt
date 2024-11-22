@@ -1,0 +1,29 @@
+EZOP (Accela) New User Request Form
+The following information must be provided with any new user request
+New User
+First Name:  	____________________________
+Last Name:  	____________________________
+Classification:  	____________________________
+Employee ID:  	____________________________
+Email Address:  	____________________________
+Department:  	____________________________
+Inspector:  	Y / N
+Access to Time Accounting:  Y / N
+Time Accounting Group:	______________________
+System Role:  
+	Building:	___________________________
+	Fire:		___________________________
+	Planning:	___________________________
+	Public Works:	___________________________
+
+Field Explanation
+First Name:  The first initial will be part of the user name configured for the new account
+Last Name:  The last name will be part of the user name configured for the new account
+Classification:  This information will be used for support billing of hourly labor to trust accounts.  It is important even if a user does not bill to trust accounts. (E.g. Planner I, Public Works Engineer II)
+Employee ID:  This needs to be the active directory login that is used to login to SBCOUNTY domain.  If it is not, then password reset functionality will not work.
+Email Address:  This needs to be correct for password reset functionality to work.
+Department:  The group that this user will belong to in the Department/User dropdown list.  See any workflow task / assignment dropdown for a list of possible choices.
+Inspector:  Does this user perform inspections?
+Access to Time Accounting:  Does this user log time accounting entries in Accela?
+Time Accounting Group:  Which group does the user belong to for time Accounting (E.g., LUS – Land Development, LUS – Customer Service, etc.)
+System Role:  A user can only belong to one role in each module.  Roles include:  Supervisor, Inspector, Reviewer, Daily User, and Read-Only.

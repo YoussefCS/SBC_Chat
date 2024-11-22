@@ -1,0 +1,38 @@
+
+
+
+
+
+
+How To: Log off of Citrix due to WinCAMS crash
+
+
+Document Purpose
+After WinCAMS (Timecards included) is closed or crashes, often times your user connection to the Citrix Server will prevent you from getting back onto WinCAMS. This document is to show users how to completely disconnect from WinCAMS by logging out of the Citrix server that connects you to WinCAMS. Users should still always exit WinCAMS from the “Exit” Icon and this method should only be used in case WinCAMS has crashed. This method does not substitute a computer shutdown or restart but can be tried before a complete computer restart.  If WinCAMS is “down” for EVERYONE, this method will not help, in the case please put in helpdesk ticket.
+Document Control
+Document Contacts
+R-Responsible  A-Accountable  C-Consulted   I- Informed
+Supporting Documents
+
+
+Logging off Citrix Server
+On the bottom right of your main display by the Clock is your Notification Area / System Tray. Expand (if needed) the tray to see all your Icons in the System Tray. You will right-click on the Icon “Citrix Receiver”, then select “Connection Center”.
+
+Inside the Citrix Connection Center you will see if you are still connected to the Citrix Server. If you see nothing, you are already logged out of the server. If you see an Active connection, please proceed to log off by selecting the Server (either DPW-VPCITRIX03 or DPW-VPCITRIX04) and pushing the “Log Off” button. Ensure you “Log Off” instead of “Disconnect”.
+
+
+
+
+You are now logged off the Citrix Server and will automatically be reconnected and logged back in when loading WinCAMS / Timecards from normal means.  You may “Close” connection center and try loading WinCAMS / Timecards.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+
+
+
+
+
+
+How To: Archives in Outlook 2016/2019
+
+
+Document Purpose
+Document to show end users how to create and manage Outlook 2016 and 2019 archives 
+Document Control
+Document Contacts
+R-Responsible  A-Accountable  C-Consulted   I- Informed
+Supporting Documents
+
+Creating Archives
+Open up Outlook 2016.  In the top-left select “File”. Click on “Account Settings” drop down and select “Account Settings…”.
+
+
+
+Select “Data Files” tab in the E-mail accounts settings. Then select “Add..”
+
+
+You will then type in a name for the archive and navigate to where you would like to store it. You should store this on your N:\ drive.
+
+
+
+Auto-Archiving
+
+Setting up auto-archives will automatically archive your emails based off time. To setup, navigate in Outlook by clicking “File” on the top-left of outlook. The click “Options” and select the “Advanced” tab on the left. Within the Advanced options, you will look and click on “AutoArchive Settings…”
+ 
+
+You will then check the boxes accordingly. In the example above, I have stated that I would like Outlook to archive for me every two weeks. Every two weeks, Outlook will prompt me to archive. It will then look for any emails that are older than 6 months. It will then take any 6 month old emails and move them into my pre-existing archive2.pst that is stored on my N drive. Once you have defined your own parameters, you must click “Apply these settings to all folders now” and then hit “OK”.
+
+You can also define AutoArchive settings based off folder, by right-clicking on the folder and choose Properties and then got to the AutoArchive tab.
+
+
+
+
+
+
+Linking Archives
+Open Outlook
+In the top-left select “File” > “Open & Export” > “Open Outlook Data File”.
+Browse and select the archive you want to open. 
+Note: Your archives are typically stored on your N: Drive inside a folder called “email” or “outlook”. 
+Example: N:/email/archive2.pst 
+ 
+

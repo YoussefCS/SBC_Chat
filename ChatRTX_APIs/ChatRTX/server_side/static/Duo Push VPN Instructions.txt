@@ -1,0 +1,233 @@
+ 
+Property County of San Bernardino 
+1 
+                      VPN Setup Instructions using Duo Push Authentication 
+ 
+ 
+Requirements for migrating to this new VPN Connection: 
+ 
+Step 1: Install Duo Mobile App 
+Installing Duo on your iPhone or iPad 
+Installing Duo on your Android smartphone or tablet 
+Step 2: Enrollment Duo Mobile authenticator 
+Device enrollment email viewed on the same device 
+Device enrollment email viewed on a different device 
+Step 3: Update AnyConnect URL and Authenticate 
+Updating AnyConnect URL and Authenticate with Duo Push 
+Installing Duo Mobile on your iPhone or iPad  
+1. Launch the “App Store” application from your iPhone or iPad desktop and search using 
+the following key phrase "Duo Mobile”.  
+2. Once the download and installation are completed successfully, the green Duo Mobile 
+icon will be displayed on your iPhone or iPad desktop. 
+ 
+Installing Duo Mobile on your Android smartphone or tablet 
+1. Launch the “Google Play Store” application from your Android smartphone or tablet 
+desktop and search using the key phrase “Duo Mobile”. 
+2. Once the download and installation are completed successfully, the green Duo Mobile 
+icon will be displayed on your Android desktop. 
+ 
+Note: If you are being prompted for username and password or any other issues preventing you from 
+downloading and installing Cisco Mobile App, you will need to contact your IT Department for further 
+assistance. 
+ 
+Property County of San Bernardino 
+2 
+Device enrollment email viewed on the same device 
+Please click here if the device you are enrolling doesn’t have access to the activation email 
+Note: Please have Duo Mobile installed before proceeding with Enrollment 
+1. Open the enrollment email that was sent to you from Duo Security 
+ 
+2. Scroll down and link the hyperlink to start the enrollment process 
+ 
+ 
+ 
+ 
+Property County of San Bernardino 
+3 
+3. When the page loads click Start setup 
+ 
+4. Verify the Mobile phone radio button is selected and click Continue at the bottom 
+ 
+5. On the next screen type the Phone number of the device you are enrolling 
+ 
+XXX
+X 
+XXXX 
+ 
+Property County of San Bernardino 
+4 
+6. Check the box to verify the Phone Number was entered correctly 
+ 
+7. Click Continue at the bottom once the Phone Number has been entered and verified  
+ 
+8. On the next screen click I have Duo Mobile installed 
+ 
+XXXX 
+XXXX 
+XXXX 
+XXXX 
+ 
+Property County of San Bernardino 
+5 
+9. The next screen click Take me to Duo Mobile 
+ 
+10. The web browser will prompt asking to open Duo Mobile, click Open 
+ 
+11. When Duo Mobile opens you will see a screen similar to the one below 
+ 
+ 
+Property County of San Bernardino 
+6 
+12.  Open up the web page again and click Continue 
+ 
+13.  Click the drop down under “When I log in” and select Automatically send 
+this device a Duo Push 
+ 
+XXXX 
+XXXX 
+ 
+Property County of San Bernardino 
+7 
+14.  Click Finish Enrollment  
+ 
+Note: you may have to scroll down to see the button 
+15.  When the next screen loads it will say Enrollment Successful! 
+Please click here to proceed to the next section 
+after the “Enrollment Successful!” page loads 
+ 
+XXXX 
+XXXX 
+ 
+Property County of San Bernardino 
+8 
+Device enrollment email viewed on a different device 
+Note: Please have Duo Mobile installed before proceeding with Enrollment 
+16. Open the enrollment email that was sent to you from Duo Security 
+ 
+17. Scroll down and link the hyperlink to start the enrollment process 
+ 
+ 
+ 
+ 
+ 
+Property County of San Bernardino 
+9 
+18. When the page loads click Start setup 
+ 
+19. Verify the Mobile phone radio button is selected and click Continue at the bottom 
+ 
+20. On the next screen type the Phone number of the device you are enrolling 
+ 
+ 
+XXXX 
+XXXX 
+ 
+Property County of San Bernardino 
+10 
+21. Check the box to verify the Phone Number was entered correctly 
+ 
+22. Click Continue at the bottom once the Phone Number has been entered and verified 
+ 
+23. Select the radio button for the type of Phone you are enrolling Example: iPhone 
+ 
+XXXX 
+XXXX 
+XXXX 
+XXXX 
+XXXXXXX 
+ 
+Property County of San Bernardino 
+11 
+24. On the next screen click I have Duo Mobile installed 
+ 
+25. The next screen will show a QR code 
+ 
+26. Open the Duo Mobile App on your device you are enrolling and click the + in the top 
+right. Accept any prompts asking permission to access the camera. 
+ 
+ 
+ 
+ 
+SAMPLE 
+ 
+Property County of San Bernardino 
+12 
+27. At this point you can now scan the QR code that opened in Step 10. The Duo Mobile App 
+will then display a screen similar to the one below 
+ 
+28.  Once successful the QR Code will show a green check mark, you can now 
+click Continue at the bottom 
+ 
+29.  Click the drop down next to “When I log in” and select Automatically send 
+this device a Duo Push 
+ 
+XXXX 
+XXXX 
+ 
+Property County of San Bernardino 
+13 
+30.  Click Finish Enrollment 
+ 
+31.  When the next screen loads it will say “Enrollment Successful!” 
+Please click here to proceed to the next section 
+after the “Enrollment Successful!” page loads 
+ 
+ 
+ 
+ 
+ 
+XXXX 
+XXXX 
+ 
+Property County of San Bernardino 
+14 
+Updating AnyConnect URL and Authenticate with Duo Push 
+1. Open Cisco AnyConnect on the device you will use to connect to VPN and in the box to 
+the left of the Connect button and type the following URL 
+https://vpn.sbcounty.gov 
+ 
+2. Click the Connect button in the bottom right of the window 
+ 
+3. At the logon prompt you must provide your County Username and Password and click 
+OK. For example, this would be the same Username and Password to logon to your work 
+computer. 
+Do not enter 6-digit passcode as your password 
+ 
+ 
+Property County of San Bernardino 
+15 
+4. On the device registered with your Duo Mobile Authenticator click the notification 
+a. Notification Icon pop-up on device screen 
+ 
+b. If you don’t see the notification open Duo Mobile directly and click the 
+notification banner at the top 
+ 
+5. When the notification opens click on the green Approve button on the bottom left 
+ 
+ 
+ 
+Property County of San Bernardino 
+16 
+6. Click Accept in the bottom right of the connection banner to complete the VPN Login 
+process 
+ 
+7. After you have successfully connected the first time, click the AnyConnect icon in the 
+tray near the clock and select Disconnect 
+ 
+ 
+ 
+ 
+ 
+Property County of San Bernardino 
+17 
+8. Open the AnyConnect windows again and click the dropdown arrow on the right 
+ 
+9. Select Primary VPN Service from the list 
+ 
+10. Reconnect to VPN using Duo Mobile following Steps 3 - 6 in this same section (Updating 
+AnyConnect URL) 
+ 
+ 
+Thank you for your assistance during this migration! 
+If you have any problems or questions, please contact the Innovation and 
+Technology Department Helpdesk at (909) 884-4884 

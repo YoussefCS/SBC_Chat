@@ -1,0 +1,71 @@
+
+
+
+
+
+
+How To: Moving files within SharePoint
+
+
+Document Purpose
+How to move and edit files within SharePoint. These instruction will outline the steps and process of adding or moving employee’s pictures in the Photo Directory for new employees or former employees. 
+Document Control
+Document Contacts
+R-Responsible  A-Accountable  C-Consulted   I- Informed
+Supporting Documents
+
+
+Moving files within SharePoint
+
+Open SharePoint and navigate to the File/Picture Library you need to move a file to or remove from. In this example we will use a new employee (Chugh, Ramesh) that will be in Admin Services. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To add a file that is stored on your computer or anything external from SharePoint, you can simply use Windows Explorer and drag and drop the file inside the Library. You may move/upload up to 100 files at a time.
+
+
+
+ To move a preexisting file within SharePoint, once inside the Library. You will click “LIBRARY” on the top left then select “Open with Explorer” (This may only look like an icon if your window is small). This example will show you how to move an employee picture (Chugh, Ramesh) to the Former Employee library that is currently stored in Admin Services.
+
+ 
+
+Now you will be looking at SharePoint files through Windows Explorer and can move or remove as you would normally in Windows Explorer. Select the filename “Chugh, Ramesh”, right-click and hit “cut”, then back out one folder and open up the “Former Employees” folder, right-click and hit paste.
+
+
+
+Adding titles to pictures in SharePoint
+
+Scroll over the picture you want to add a title to. Then hit the “…” button on the bottom right of thumbnail, a new popup windows will appear and you will again hit the “…” button on that menu, then you will select “Edit Properties”.
+
+
+
+
+
+
+
+
+
+
+
+You will then put in the NAME and title in the “Title” field.  Hit “Save” afterwards.
+
+
+
+
+
+
+
+
+
+

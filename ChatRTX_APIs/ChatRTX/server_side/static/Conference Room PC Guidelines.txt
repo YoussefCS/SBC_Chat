@@ -1,0 +1,14 @@
+Please read these GUIDELINES for Conference Room PC
+Using the PC and TV/Projector:
+Turn on the power to the TV/Projector with the TV/Projector remote and the wireless mouse and keyboard key with the switches behind them. Log on using conference room login written on the computer box.
+**Note** Connecting any devices including laptops to the TV/Projector should be tested PRIOR to a meeting and often times may not work as expected.
+After use:
+Please log off the PC, the PC power should always remain ON. Turn off the TV/Projector, keyboard, and mouse. Place TV/Projector remote, PC keyboard and mouse back to designated location. 
+PC or TV/Projector NOT WORKING? – follow these instructions:
+Ensure the power to the TV AND PC is on – 
+TV: Power light is on bottom right of screen. Green light = ON; Red light = OFF; None = No power source
+PC: Power light is on the power button. For wall mounted computer this will be on the bottom of computer box. No light = Off > Press power to turn ON; Blinking light = SLEEP > Use keyboard/mouse to wake up; Solid light = ON
+
+Ensure the wireless keyboard and mouse are set to the ON position and the batteries are not dead to include TV/Projector remote. Replace batteries if needed. 
+
+Ensure the “Source” of the TV/Projector is selected to HDMI “#”, where the “#” corresponds to the HDMI port number the computer connects to the TV/Projector. Use TV/Projector remote to set the Source.

@@ -1,0 +1,47 @@
+ 
+DEPARTMENT OF PUBLIC WORKS 
+COMPUTER SERVICES 
+ 
+CS Rev. 12/09/15 
+1 
+(Share Drive Access) 
+ 
+ 
+MAPPING A NETWORK DRIVE (SWM) 
+ 
+1. Click on the start button  
+ 
+2. Type "\\sbcounty.gov\dpw" and hit the enter key on the 
+keyboard 
+ 
+3. Double-click on the folder you want to map 
+ 
+4. Click once in the Address bar to reveal the folders whole 
+address. (Make sure the address is highlighted) 
+ 
+5. Right-click on the highlighted address to bring up the 
+options box and click “Copy” 
+ 
+6. In the navigation pane, Click on “Computer” 
+ 
+7. On the Toolbar, click “Map network drive” 
+ 
+San Bernardino County Department of Public Works 
+ 
+ Continued… 
+ 
+CS Rev. 12/09/15 
+2 
+(Share Drive Access) 
+8. In the dialogue box, click the “Drive” drop-down panel and 
+select the drive letter you desire.  
+ 
+(You cannot repeat the same drive letter you are already 
+using) 
+ 
+9. Right-click in the “Folder” box and click “Paste” 
+ 
+10. When you have selected the drive letter you desire. Click 
+"Finish" to complete the process. 
+ 
+ 

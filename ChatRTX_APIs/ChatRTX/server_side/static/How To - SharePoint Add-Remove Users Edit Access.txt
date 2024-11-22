@@ -1,0 +1,57 @@
+
+
+
+
+
+
+SharePoint How-to for Power Users – Adding/Removing Edit Access to Other Users 
+
+
+Document Purpose
+Instruction for Power Users to provide or remove Edit rights to a division’s SharePoint page and file library for other employees. 
+Edit rights will allow users to add, edit, and delete items in SharePoint Lists, Libraries and other SP Apps. 
+Document Control
+Document Contacts
+R-Responsible  A-Accountable  C-Consulted   I- Informed
+Supporting Documents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructions
+https://sp2013.sbcounty.gov/sites/dpw/SitePages/Home.aspx
+Step 1 – Log on to the SharePoint page and enter your division’s sub-site (Example is shown using Operations sub-site). Once inside divisions sub-site Click on the gear icon on the top right and select “Site Settings” from the drop down. 
+
+
+
+
+
+
+
+Step 2 – Select “Site permissions” under the “Users and Permissions” section. Then select the “Edit” security group.
+Note: Only the division’s Edit security group will be able to be managed by Power Users, you will not have access to add or remove people to any other group.
+
+Then
+
+
+
+To add access:
+Step 4a – Click on “New” then “Add Users...”. Then enter and lookup user(s) you want to give access to. After user(s) entered, you may choose to send them an email. Click “Share” and user will have the Edit rights. 
+Suggestion: Turn off email notification and inform users yourself. 
+
+Then
+
+To remove access:
+Step 4b – You will find the list of users that currently have access to this group, you will select them by putting a check by their name(s) then clicking the “Actions” drop-down and select “Remove Users from Group”. User(s) will be removed after this action. 
